@@ -1,16 +1,25 @@
-## Hi there 👋
+## Привет, я Александр 👋
 
-<!--
-**BaulinAlexandr/BaulinAlexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 1С-программист
 
-Here are some ideas to get you started:
+Разрабатываю конфигурации на **1С:Предприятие 8.3**.
+Интересуюсь **учётными системами**, **бизнес-процессами** и **интеграциями**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки
+
+- **Платформа:** 1С:Предприятие 8.3, Конфигуратор, управляемые формы
+- **Запросы и СКД:** язык запросов 1С, СКД, виртуальные таблицы
+- **Бизнес-процессы:** маршрутные карты, задачи
+- **Интеграции:** HTTP, REST API, XML, JSON
+- **БСП:** УправлениеПечатью, ДополнительныеОтчетыИОбработки
+- **Инструменты:** Git, Конфигуратор, ИТС, отладчик
+
+## Проекты
+
+- [Конфигурация для салона красоты](ссылка)
+- [Конфигурация для груминг-салона](ссылка)
+
+## Контакты
+
+- Telegram: [@Alexandr_dev1](https://t.me/@Alexandr_dev1)
+- Email: Baulin.1c@gmail.com
