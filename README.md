@@ -16,9 +16,9 @@
 
 ## Проекты
 
-- [Конфигурация для салона красоты](https://github.com/BaulinAlexandr/Projects/blob/main/GroomingSalon.dt)
-- [Конфигурация для груминг-салона](ссылка)
-
+- [Конфигурация для салона красоты]([ссылка](https://github.com/BaulinAlexandr/Projects/raw/refs/heads/main/SalonKrasoty.dt))
+- [Конфигурация для груминг-салона](https://github.com/BaulinAlexandr/Projects/blob/main/GroomingSalon.dt)
+  
 ## Контакты
 
 - Telegram: [@Alexandr_dev1](https://t.me/@Alexandr_dev1)
